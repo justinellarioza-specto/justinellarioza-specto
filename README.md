@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Justine Lee — IT Undergraduate, Full-Stack & iOS Developer, UI/UX Designer" width="100%" />
+<img src="header.svg" alt="Justine Lee — IT Undergraduate, Full-Stack & iOS Developer, UI/UX Designer" width="100%" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./assets/about.svg" alt="Location, education and focus" width="100%" />
+<img src="about.svg" alt="Location, education and focus" width="100%" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./assets/stack.svg" alt="Tech stack: Swift, TypeScript, Vue, React, Node.js, Express, MongoDB, Git, Figma, Linux, VS Code" width="100%" />
+<img src="stack.svg" alt="Tech stack: Swift, TypeScript, Vue, React, Node.js, Express, MongoDB, Git, Figma, Linux, VS Code" width="100%" />
 
 </div>
 
