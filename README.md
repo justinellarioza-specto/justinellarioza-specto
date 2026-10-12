@@ -1,25 +1,27 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there</h1>
 <p align="center">
-  IT student and web developer from the Philippines 🇵🇭<br>
+  IT student and web developer from the Philippines<br>
   I build single-page apps and websites — taking designs from mockup to working product.
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
-- 🌱 Currently learning **Vue 3**, **React**, and **TypeScript** in depth
-- 🛠️ Working on front-end coursework, final projects, and freeCodeCamp challenges
-- 🎨 I enjoy turning design mockups into clean, responsive web pages
-- 📋 Also studying IT project management
+- Currently learning **Vue 3**, **React**, and **TypeScript** in depth
+- Working on front-end coursework, final projects, and freeCodeCamp challenges
+- I enjoy turning design mockups into clean, responsive web pages
+- Also studying IT project management
 
-### 🧰 Tech stack
+### Tech stack
 
 **Languages**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frameworks & tools**
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -29,7 +31,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Featured projects
+**Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+### Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -39,7 +45,7 @@
 | [**UpVote!**](https://github.com/justinellarioza-specto/Project-UpVote-) | Reddit / Hacker News–style feed where users vote on project submissions | Vue 3 · JavaScript |
 | [**Starlight+**](https://github.com/justinellarioza-specto/Starlight-) | Online hub connecting fans, performers, and entertainment companies | HTML · CSS |
 
-### 📫 Reach me
+### Reach me
 
 <!-- Add your links here, e.g.: -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) -->
