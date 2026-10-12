@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#151a33"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.28"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <clipPath id="clip"><rect width="900" height="200" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="200" fill="url(#bg)"/>
+    <g filter="url(#blur)">
+      <circle cx="140" cy="150" r="70" fill="#06b6d4" opacity="0.65"/>
+      <circle cx="450" cy="30" r="70" fill="#8b5cf6" opacity="0.7"/>
+      <circle cx="770" cy="150" r="70" fill="#ec4899" opacity="0.55"/>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <!-- card 1 -->
+    <rect x="30" y="30" width="260" height="140" rx="22" fill="url(#glass)"/>
+    <rect x="30.5" y="30.5" width="259" height="139" rx="21.5" stroke="url(#edge)"/>
+    <text x="54" y="66" font-size="12" fill="#94a3b8" letter-spacing="3">LOCATION</text>
+    <text x="54" y="102" font-size="20" font-weight="600" fill="#f1f5f9">Angeles City</text>
+    <text x="54" y="128" font-size="14" fill="#cbd5e1" fill-opacity="0.8">Pampanga, Philippines</text>
+
+    <!-- card 2 -->
+    <rect x="320" y="30" width="260" height="140" rx="22" fill="url(#glass)"/>
+    <rect x="320.5" y="30.5" width="259" height="139" rx="21.5" stroke="url(#edge)"/>
+    <text x="344" y="66" font-size="12" fill="#94a3b8" letter-spacing="3">EDUCATION</text>
+    <text x="344" y="102" font-size="20" font-weight="600" fill="#f1f5f9">BS Information Tech</text>
+    <text x="344" y="128" font-size="14" fill="#cbd5e1" fill-opacity="0.8">3rd Year · Holy Angel University</text>
+
+    <!-- card 3 -->
+    <rect x="610" y="30" width="260" height="140" rx="22" fill="url(#glass)"/>
+    <rect x="610.5" y="30.5" width="259" height="139" rx="21.5" stroke="url(#edge)"/>
+    <text x="634" y="66" font-size="12" fill="#94a3b8" letter-spacing="3">FOCUS</text>
+    <text x="634" y="102" font-size="20" font-weight="600" fill="#f1f5f9">Web + Swift</text>
+    <text x="634" y="128" font-size="14" fill="#cbd5e1" fill-opacity="0.8">Architecture, UI, iOS apps</text>
+  </g>
+</svg>
