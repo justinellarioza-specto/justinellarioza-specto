@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=Annyonghaseyo!;I'm+Justine+Lee;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=60&lines=Justine+Lee;유스티느+리;ジュスティーヌ・リー;ᜇᜒᜐ᜔ᜆᜒᜈ᜔+ᜎᜒ" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding-6366F1?style=for-the-badge&logo=coffeescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Vue%203%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Swift%20%7C%20Vue%203%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -12,18 +12,18 @@
 
 ### About Me
 
-* **Based in:** Angeles City, Pampanga, Philippines
-* **Studying:** BS Information Technology (3rd Year) at Holy Angel University
-* **Specialization:** Full-stack web development & interactive UI design
-* **Current Focus:** Deepening expertise in Vue 3, React, TypeScript, and IT project management
-* **Passion:** Bridging the gap between creative design mockups and clean, responsive code
+- **Based in:** Angeles City, Pampanga, Philippines
+- **Studying:** BS Information Technology (3rd Year) at Holy Angel University
+- **Specialization:** Full-stack web development, iOS development, & interactive UI design
+- **Current Focus:** Deepening expertise in Swift, Vue 3, React, TypeScript, and IT project management
+- **Passion:** Bridging the gap between creative design mockups and clean, responsive code
 
 ---
 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,react,nodejs,express,mongodb,git,github,figma,linux,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=swift,html,css,javascript,typescript,vue,react,nodejs,express,mongodb,git,github,figma,linux,vscode&perline=8" />
 </p>
 
 ---
