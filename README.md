@@ -1,61 +1,59 @@
 <div align="center">
 
-# Justine Lee
-<p><i>Full-Stack Developer &bull; IT Undergraduate &bull; UI/UX Enthusiast</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&height=45&lines=Justine+Lee;유스티느+리;ジュスティーヌ・リー;ᜇᜒᜐ᜔ᜆᜒᜈ᜔+ᜎᜒ" alt="Typing SVG" />
 
-<p>
-  <a href="https://linkedin.com/in/justinellarioza-specto">LinkedIn</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:you@example.com">Email</a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/justinellarioza-specto">GitHub</a>
-</p>
+  <p>
+    <code>IT Undergraduate</code> &bull; 
+    <code>Full-Stack & iOS Developer</code> &bull; 
+    <code>UI/UX Designer</code>
+  </p>
 
 </div>
 
 ---
 
-### &nbsp;&bullet;&nbsp; Overview
+### About
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Education</b><br>
-      BS Information Technology (3rd Year)<br>
-      Holy Angel University, Philippines
-    </td>
-    <td width="50%" valign="top">
-      <b>Focus & Interests</b><br>
-      &bull; Swift & iOS Development<br>
-      &bull; Modern Web Architecture (Vue 3 / TypeScript)<br>
-      &bull; Interface Design & Prototyping
-    </td>
-  </tr>
-</table>
+* **Location:** Angeles City, Pampanga, Philippines
+* **Education:** BS Information Technology (3rd Year) at Holy Angel University
+* **Focus:** Modern web architecture, interface design, and Swift application development
 
 ---
 
-### &nbsp;&bullet;&nbsp; Tech Stack
+### Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=swift,typescript,vue,react,nodejs,express,mongodb,git,figma,linux,vscode&perline=6" />
 </p>
 
 ---
 
-### &nbsp;&bullet;&nbsp; Selected Projects
+### Selected Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[RouteOne Auto Club](https://github.com/justinellarioza-specto/RouteOne-Auto-Club)** | Motoring club platform with a REST API backend | `React` `TypeScript` `Express` |
-| **[Vue Router SPA](https://github.com/justinellarioza-specto/Vue-Router-SPA)** | Single-page application with client-side routing | `Vue 3` `Vite` |
-| **[Weekly Calendar App](https://github.com/justinellarioza-specto/Calendar-App)** | Calendar built with shared state across components | `Vue 3` |
-| **[UpVote!](https://github.com/justinellarioza-specto/UpVote-Reddit-Feed)** | Submission feed with real-time voting mechanics | `Vue 3` `JavaScript` |
-| **[Starlight+](https://github.com/justinellarioza-specto/Starlight-Platform)** | Online community hub for fans and performers | `HTML` `CSS` |
+| **[RouteOne Auto Club](https://github.com/justinellarioza-specto)** | Motoring club platform with a REST API backend | `React` `TypeScript` `Express` |
+| **[Vue Router SPA](https://github.com/justinellarioza-specto)** | Single-page application with client-side routing | `Vue 3` `Vite` |
+| **[Weekly Calendar App](https://github.com/justinellarioza-specto)** | Calendar built with shared state across components | `Vue 3` |
+| **[UpVote!](https://github.com/justinellarioza-specto)** | Submission feed with real-time voting mechanics | `Vue 3` `JavaScript` |
+| **[Starlight+](https://github.com/justinellarioza-specto)** | Online community hub for fans and performers | `HTML` `CSS` |
 
 ---
 
-### &nbsp;&bullet;&nbsp; Statistics
+### Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&theme=tokyonight&hide_border=true&bg_color=16161e&text_color=7aa2f7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161e&text_color=7aa2f7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&hide_title=true&compact_count=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=nord&hide_border=true&background=1e222a&type=compact" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:you@example.com">Email</a>
+</div>
