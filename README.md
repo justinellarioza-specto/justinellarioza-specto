@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=26&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&height=50&lines=Justine+Lee;유스티느+리;ジュスティーヌ・リー;ᜇᜒᜐ᜔ᜆᜒᜈ᜔+ᜎᜒ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&height=45&lines=Justine+Lee;유스티느+리;ジュスティーヌ・リー;ᜇᜒᜐ᜔ᜆᜒᜈ᜔+ᜎᜒ" alt="Typing SVG" />
 
   <p>
     <code>IT Undergraduate</code> &bull; 
@@ -43,12 +43,12 @@
 ### Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf&title_color=61afef" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&hide_title=true&compact_count=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=nord&hide_border=true&background=1e222a&sideLabels=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=nord&hide_border=true&background=1e222a&type=compact" width="100%" />
 </p>
 
 ---
