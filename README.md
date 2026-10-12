@@ -42,14 +42,25 @@
 
 ### Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&hide_title=true&compact_count=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=nord&hide_border=true&background=1e222a&type=compact" width="100%" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" alt="Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=nord&hide_border=true&background=1e222a&type=compact" alt="Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" alt="Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
