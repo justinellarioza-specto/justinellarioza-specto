@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Justine Lee, developer and designer" width="100%" />
+<img src="header.svg" alt="Justine Lee, developer and designer" width="100%" />
 
 <br />
 
