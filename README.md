@@ -1,6 +1,6 @@
-<h1 align="center">annyeonghadaQ</h1>
+<h1 align="center">annyeonghaseyo!</h1>
 <p align="center">
-  IT student and web developer from the Philippines<br>
+  A 3rd-year IT student and web developer from the Philippines<br>
   I build single-page apps and websites — taking designs from mockup to working product.
 </p>
 
@@ -8,6 +8,7 @@
 
 ### About me
 
+- 20 years old, based in the Philippines, studying **BS Information Technology** (3rd year) at **Holy Angel University**, specializing in **Web Development**
 - Currently learning **Vue 3**, **React**, and **TypeScript** in depth
 - Working on front-end coursework, final projects, and freeCodeCamp challenges
 - I enjoy turning design mockups into clean, responsive web pages
