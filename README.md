@@ -15,7 +15,7 @@
 ### About
 
 * **Studies:** BS Information Technology (3rd Year) at Holy Angel University
-* **Focus:** Full-stack web development, interactive UI design, and Swift app architecture
+* **Focus:** Full-stack web architecture, interactive UI design, and Swift app development
 * **Core Stack:** Swift, TypeScript, Vue 3, React, Node.js
 
 ---
@@ -40,9 +40,9 @@
 
 ---
 
-### Overview
+### Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=false&theme=transparent&text_color=c0caf5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&text_color=c0caf5" width="48%" />
 </p>
