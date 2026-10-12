@@ -43,12 +43,12 @@
 ### GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=111827&text_color=F3F4F6&icon_color=6366F1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=111827&text_color=F3F4F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=true&theme=radical&hide_border=true&bg_color=111827&text_color=F3F4F6&icon_color=6366F1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&theme=radical&hide_border=true&bg_color=111827&text_color=F3F4F6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=111827" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=radical&hide_border=true&background=111827" width="100%" />
 </p>
 
 ---
