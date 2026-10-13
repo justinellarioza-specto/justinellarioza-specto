@@ -24,13 +24,7 @@
 
 ### `// STACK`
 
-`MAIN`
-
-<img src="https://skillicons.dev/icons?i=swift&theme=dark" height="56" />
-
-`ALSO`
-
-<img src="https://skillicons.dev/icons?i=typescript,java,python,css,vue,react,nodejs,express,mongodb,git,figma,linux,vscode&theme=dark&perline=13" />
+<img src="https://skillicons.dev/icons?i=swift,typescript,java,python,css,vue,react,nodejs,express,mongodb,git,figma,linux,vscode&theme=dark&perline=14" />
 
 ### `// PROJECTS`
 
