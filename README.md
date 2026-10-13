@@ -1,69 +1,55 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=24&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&height=45&lines=Justine+Lee;유스티느+리;ジュスティーヌ・リー;ᜇᜒᜐ᜔ᜆᜒᜈ᜔+ᜎᜒ" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&height=50&lines=%3E+JUSTINE+LEE_;%3E+%EC%9C%A0%EC%8A%A4%ED%8B%B0%EB%8A%90+%EB%A6%AC_;%3E+%E3%82%B8%E3%83%A5%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%AA%E3%83%BC_;%3E+%E1%9C%87%E1%9C%92%E1%9C%90%E1%9C%94%E1%9C%86%E1%9C%92%E1%9C%88%E1%9C%94+%E1%9C%8E%E1%9C%92_" alt="Justine Lee" />
 
-  <p>
-    <code>IT Undergraduate</code> &bull; 
-    <code>Full-Stack & iOS Developer</code> &bull; 
-    <code>UI/UX Designer</code>
-  </p>
+![IT Undergraduate](https://img.shields.io/badge/IT_UNDERGRADUATE-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=0D0D0D)
+![Full-Stack & iOS](https://img.shields.io/badge/FULL--STACK_%2F_iOS-FF2A6D?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_DESIGN-00F0FF?style=for-the-badge&logoColor=black)
 
 </div>
 
----
+```bash
+> whoami
+  justine_lee :: 3rd-year BSIT @ Holy Angel University
 
-### About
+> cat ./location
+  Angeles City, Pampanga, PH
 
-**Location:** Angeles City, Pampanga, Philippines
-**Education:** BS Information Technology (3rd Year) at Holy Angel University
-**Focus:** Modern web architecture, interface design, and Swift application development
----
+> cat ./focus
+  [web architecture]  [interface design]  [swift / iOS]
 
-### Tech Stack
+> status --now
+  ONLINE // building, breaking, shipping_
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,typescript,vue,react,nodejs,express,mongodb,git,figma,linux,vscode&perline=6" />
-</p>
+### `// STACK`
 
----
+<img src="https://skillicons.dev/icons?i=swift,typescript,vue,react,nodejs,express,mongodb,git,figma,linux,vscode&theme=dark" />
 
-### Selected Projects
+### `// PROJECTS`
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[RouteOne Auto Club](https://github.com/justinellarioza-specto)** | Motoring club platform with a REST API backend | React TypeScript Express |
-| **[Vue Router SPA](https://github.com/justinellarioza-specto)** | Single-page application with client-side routing | Vue 3 Vite |
-| **[Weekly Calendar App](https://github.com/justinellarioza-specto)** | Calendar built with shared state across components | Vue 3 |
-| **[UpVote!](https://github.com/justinellarioza-specto)** | Submission feed with real-time voting mechanics | Vue 3 JavaScript |
-| **[Starlight+](https://github.com/justinellarioza-specto)** | Online community hub for fans and performers | HTML CSS |
+| `ID` | Project | Description | Stack |
+| :-- | :-- | :-- | :-- |
+| `01` | **[RouteOne Auto Club](https://github.com/justinellarioza-specto/RouteOne-Auto-Club-)** | Motoring club platform with a REST API backend | `React` `TS` `Express` |
+| `02` | **[Vue Router SPA](https://github.com/justinellarioza-specto/finalprj-vue-router)** | Single-page app with client-side routing | `Vue 3` `Vite` |
+| `03` | **[Weekly Calendar](https://github.com/justinellarioza-specto/Project-Weekly-Calendar-App)** | Calendar with shared state across components | `Vue 3` |
+| `04` | **[UpVote!](https://github.com/justinellarioza-specto/Project-UpVote-)** | Submission feed with live voting | `Vue 3` `JS` |
+| `05` | **[Starlight+](https://github.com/justinellarioza-specto/Starlight-)** | Community hub for fans and performers | `HTML` `CSS` |
 
----
-
-### Metrics
+### `// TELEMETRY`
 
 <div align="center">
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=false&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" alt="Stats" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinellarioza-specto&theme=nord&hide_border=true&background=1e222a&type=compact" alt="Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&hide_title=true&theme=nord&hide_border=true&bg_color=1e222a&text_color=abb2bf" alt="Languages" />
-    </td>
-  </tr>
-</table>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justinellarioza-specto&show_icons=true&hide_title=true&hide_border=true&bg_color=0D0D0D&text_color=C5C6C7&icon_color=00F0FF&title_color=FF2A6D" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinellarioza-specto&layout=compact&hide_title=true&hide_border=true&bg_color=0D0D0D&text_color=C5C6C7" alt="Top languages" />
 </div>
 
----
-
 <div align="center">
-  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:you@example.com">Email</a>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF2A6D)](mailto:you@example.com)
+
+<sub><code>// END_OF_TRANSMISSION</code></sub>
+
 </div>
