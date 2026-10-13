@@ -50,6 +50,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/justinellarioza-specto/justinellarioza-specto/output/github-snake.svg" alt="Contribution snake" />
+</div>
+
+<div align="center">
 
 <br>
 
