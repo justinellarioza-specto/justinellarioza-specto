@@ -32,9 +32,10 @@
 | :-- | :-- | :-- | :-- |
 | `01` | **[RouteOne Auto Club](https://github.com/justinellarioza-specto/RouteOne-Auto-Club-)** | Motoring club platform with a REST API backend | `React` `TS` `Express` |
 | `02` | **[StormReady](https://github.com/justinellarioza-specto/StormReady.git)** | Live through a typhoon in 3 minutes. | `Swift` |
-| `03` | **[Weekly Calendar](https://github.com/justinellarioza-specto/Project-Weekly-Calendar-App)** | Calendar with shared state across components | `Vue 3` |
-| `04` | **[UpVote!](https://github.com/justinellarioza-specto/Project-UpVote-)** | Submission feed with live voting | `Vue 3` `JS` |
-| `05` | **[Starlight+](https://github.com/justinellarioza-specto/Starlight-)** | Community hub for fans and performers | `HTML` `CSS` |
+| `03` | **[pusa-rescue](https://github.com/justinellarioza-specto/pusa-rescue.git)** | Rescue the Cats Game | `three.js` |
+| `04` | **[Weekly Calendar](https://github.com/justinellarioza-specto/Project-Weekly-Calendar-App)** | Calendar with shared state across components | `Vue 3` |
+| `05` | **[UpVote!](https://github.com/justinellarioza-specto/Project-UpVote-)** | Submission feed with live voting | `Vue 3` `JS` |
+| `06` | **[Starlight+](https://github.com/justinellarioza-specto/Starlight-)** | Community hub for fans and performers | `HTML` `CSS` |
 
 ### `// TELEMETRY`
 
